@@ -1,10 +1,10 @@
 # Natural-Language-Generation-
 NLG Project for Infineon from SUTD DBA Team 12 
 
-# We use this code for our initial solution using GPT-2 
+We use this code for our initial solution using GPT-2 to convert the price csv into rawstring for the Extractive Question Answering to pull an answer out from the called question
 
 from transformers import pipeline
-# The pipeline() automatically loads a default model and tokenizer capable of inference for your task.
+#The pipeline() automatically loads a default model and tokenizer capable of inference for your task.
 
 question_answerer = pipeline("question-answering")
 # in this case, the task here is “question-answering”
