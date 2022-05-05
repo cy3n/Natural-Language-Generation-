@@ -1,5 +1,5 @@
 # Natural-Language-Generation-
-# NLG Project for Infineon from SUTD DBA Team 12 
+NLG Project for Infineon from SUTD DBA Team 12 
 
 # We use this code for our initial solution using GPT-2 
 
