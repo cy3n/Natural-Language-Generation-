@@ -11,3 +11,5 @@ trained on financial stock data.
 
 Although the answer is correctly given, the accuracy score is severely impacted, which can be remedied by training the model with financial data and jargon.
 
+#References 
+https://huggingface.co/gpt2
